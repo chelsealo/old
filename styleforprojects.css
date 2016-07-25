@@ -1,0 +1,75 @@
+h1 {
+color: #0059b3;
+text-align:center;
+font-size: 60px;
+}
+
+
+h3 {
+font-size: 20px;
+}
+
+
+body {
+background-color: #ccf2ff;
+text-align: center;
+}
+
+ul {
+  	list-style-type: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    color: #4dd2ff;
+
+
+    
+}
+
+li {
+    display: block;
+    float: left;
+    text-align: center;
+    color: #4dd2ff;
+}
+
+a {
+    display: block;
+    padding: 20px;
+    background-color: #ccf2ff;
+    text-align: center;
+    color: #4dd2ff; */
+
+}
+
+div {
+	color: #66b3ff;
+	padding: 40px;
+}
+
+.village{
+	color: #66b3ff;
+}
+
+.paddleball {
+	color: #66b3ff;
+
+	padding: 30px;
+}
+
+.city {
+	color: #66b3ff;
+
+	padding: 20px;
+}
+
+.pig {
+	color: #66b3ff;
+
+	padding 35px;
+}
+
+
+.links {
+	color: #66b3ff;
+}
